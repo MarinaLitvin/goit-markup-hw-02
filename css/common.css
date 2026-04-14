@@ -11,6 +11,15 @@ ul {
     list-style: none;
 }
 
+a:hover,
+a:focus {
+    color: #404BBF;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
 h1 {
     font-size: 56px;
     font-weight: 700;

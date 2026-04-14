@@ -1,7 +1,11 @@
 .hero {
-    background-color: #2E2F42;
+    color: #2E2F42;
 }
 
 .hero h1 {
     color: #F4F4FD;
+}
+
+button {
+    color: #4D5AE5;
 }

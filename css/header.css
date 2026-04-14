@@ -7,16 +7,6 @@ a {
     color: #434455;
 }
 
-a:hover,
-button:hover,
-a:focus,
-button:hover {
-    color: #404BBF;
-}
-
-a:active {
-    text-decoration: underline;
-}
 
 header > a {
     text-transform: uppercase;
