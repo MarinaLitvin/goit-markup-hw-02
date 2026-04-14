@@ -12,6 +12,11 @@ button {
     color: #4D5AE5;
 }
 
+a {
+    text-decoration: none;
+    color: #434455;
+}
+
 a:hover,
 button:hover,
 a:focus,
@@ -40,4 +45,8 @@ h3 {
     font-size: 20px;
     font-weight: 500;
     color: #2E2F42;
+}
+
+span {
+    color: #4D5AE5;
 }
