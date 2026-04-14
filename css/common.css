@@ -20,6 +20,11 @@ a:active {
     text-decoration: underline;
 }
 
+button {
+    background-color: #4D5AE5;
+    color: #F4F4FD;
+}
+
 h1 {
     font-size: 56px;
     font-weight: 700;
