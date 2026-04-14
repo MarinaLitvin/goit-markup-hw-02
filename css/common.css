@@ -12,22 +12,6 @@ button {
     color: #4D5AE5;
 }
 
-a {
-    text-decoration: none;
-    color: #434455;
-}
-
-a:hover,
-button:hover,
-a:focus,
-button:hover {
-    color: #404BBF;
-}
-
-a:active {
-    text-decoration: underline;
-}
-
 h1 {
     font-size: 56px;
     font-weight: 700;
