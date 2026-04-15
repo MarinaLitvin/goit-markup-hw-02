@@ -26,6 +26,10 @@ a:active {
     text-decoration: underline;
 }
 
+address {
+    font-style: normal;
+}
+
 h1 {
     font-size: 56px;
     font-weight: 700;
