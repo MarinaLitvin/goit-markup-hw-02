@@ -51,3 +51,8 @@ h1,
 h2 {
     text-align: center;
 }
+
+#header > a,
+#footer a{
+    text-transform: uppercase;
+}
