@@ -1,3 +1,10 @@
+h1 {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    color: #FFFFFF;
+}
+
 #hero {
     background-color: #2E2F42;  
 }
