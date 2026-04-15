@@ -60,7 +60,7 @@ h2 {
     text-transform: uppercase;
 }
 
-#header > a,
+#header a,
 #footer a {
     text-decoration: none;
 }
