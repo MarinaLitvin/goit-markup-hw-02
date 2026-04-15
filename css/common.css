@@ -16,11 +16,6 @@ a {
     text-decoration: none;
 }
 
-a:hover,
-a:focus {
-    color: #404BBF;
-}
-
 a:active {
     text-decoration: underline;
 }
@@ -41,12 +36,6 @@ h2 {
 h3 {
     font-size: 20px;
     font-weight: 500;
-}
-
-button {
-    color: #FFFFFF;
-    background-color: #4D5AE5;
-    cursor: pointer;
 }
 
 span {

@@ -2,3 +2,12 @@
     color: #434455;
     font-style: normal;
 }
+
+#header a:hover,
+#header a:focus {
+    color: #404BBF;
+}
+
+#header a:active {
+    text-decoration: underline;
+}
