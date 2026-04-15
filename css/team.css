@@ -2,7 +2,7 @@
     background-color: #F4F4FD;
 }
 
-ul li {
+#team ul > li {
     background-color: #FFFFFF;
 }
 
