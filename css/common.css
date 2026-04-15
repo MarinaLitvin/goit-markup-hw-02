@@ -5,7 +5,6 @@ body {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 3,2px;
     line-height: 24px;
 }
 
@@ -61,7 +60,6 @@ h2 {
 
 p {
     line-height: 14px;
-    letter-spacing: 4.8;
 }
 
 #header > a,
