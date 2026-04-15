@@ -20,6 +20,13 @@ a:active {
     text-decoration: underline;
 }
 
+h1 {
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    color: ;
+}
 
 h2 {
     font-size: 36px;
