@@ -51,8 +51,6 @@ span {
 }
 
 h1,
-h2,
-.team h3,
-.team p {
+h2 {
     text-align: center;
 }
