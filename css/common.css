@@ -59,6 +59,11 @@ h2 {
     text-align: center;
 }
 
+p {
+    line-height: 14px;
+    letter-spacing: 4.8;
+}
+
 #header > a,
 #footer a {
     text-transform: uppercase;
