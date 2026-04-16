@@ -49,6 +49,8 @@ p {
 }
 
 h1,
-h2 {
+h2,
+.team h3,
+.team p {
     text-align: center;
 }
