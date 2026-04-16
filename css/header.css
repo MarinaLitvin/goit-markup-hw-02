@@ -6,7 +6,12 @@
 
 .header a {
     color: #2e2f42;
-    font-size: 16px;            
+    font-size: 16px;
+    font-style: normal;
+}
+
+.header nav {
+    font-weight: 500;
 }
 
 .header a:hover,
