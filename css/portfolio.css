@@ -1,4 +1,4 @@
-#portfolio h3,
-#portfolio p {
+.portfolio {
+    color: #2E2F42;
     text-align: left;
 }

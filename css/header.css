@@ -1,13 +1,12 @@
-#header a {
-    color: #434455;
+.header {
+    color: #2e2f42;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
     font-style: normal;
 }
 
-#header a:hover,
-#header a:focus {
+.header a:hover,
+.header a:focus {
     color: #404BBF;
-}
-
-#header a:active {
-    text-decoration: underline;
 }

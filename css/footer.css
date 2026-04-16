@@ -1,8 +1,7 @@
-#footer {
-    background-color: #2E2F42;
-}
-
-#footer a,
-#footer p {
-    color: #FFFFFF;
+.footer {
+    color: #F4F4FD;
+    background-color: #2E2F42;    
+    text-decoration: none;
+    font-style: normal;    
+    letter-spacing: 4px;
 }
