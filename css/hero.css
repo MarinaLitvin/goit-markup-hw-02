@@ -1,8 +1,8 @@
 .hero {
+    color: #2e2f42;
     font-size: 56px;
     font-weight: 700;    
-    line-height: 1.07;
-    background-color: #2E2F42; 
+    line-height: 1.07; 
     letter-spacing: 0.02em;
 }
 

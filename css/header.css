@@ -1,12 +1,15 @@
-.header {    
-    font-size: 16px;
-    font-weight: 500;    
+.header {
+    color: #FFFFFF;
     font-style: normal;
+    letter-spacing: 0.02em;
 }
 
 .header a {
     color: #2e2f42;
+    font-size: 16px;
+    font-weight: 500;
     text-decoration: none;
+    
 }
 
 .header a:hover,

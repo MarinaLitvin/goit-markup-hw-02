@@ -1,8 +1,7 @@
 .footer {
-    background-color: #2E2F42;    
-    
+    background-color: #2E2F42;   
     font-style: normal;    
-    letter-spacing: 4px;
+    letter-spacing: 0.02em;
 }
 
 .footer a {
