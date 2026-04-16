@@ -24,6 +24,10 @@ ul {
 
 .h1 {
     color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
 .h2 {
