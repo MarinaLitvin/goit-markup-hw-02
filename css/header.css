@@ -4,6 +4,11 @@
     font-style: normal;
 }
 
+.header a {
+    color: #2e2f42;
+    font-size: 16px;            
+}
+
 .header a:hover,
 .header a:focus {
     color: #404BBF;
