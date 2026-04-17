@@ -1,8 +1,12 @@
 .team {
-    color: #2E2F42;
     background-color: #F4F4FD;
 }
 
 .team li {
     background-color: #FFFFFF;
+}
+
+.team h2 {
+    color: #2E2F42;
+    line-height: 1.111;
 }
