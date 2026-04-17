@@ -1,5 +1,4 @@
 .header {
-    color: #434455;
     background-color: #FFFFFF;
     letter-spacing: 0.02em;
 }
@@ -9,7 +8,8 @@
     font-weight: 500;
 }
 
-.header address {    
+.header address a {
+    color: #434455;
     font-style: normal;
 }
 
