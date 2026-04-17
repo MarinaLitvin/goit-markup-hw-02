@@ -4,7 +4,7 @@
 }
 
 .header a {
-    color: #434455;
+    color: #2e2f42;
 }
 .header nav {
     font-weight: 500;
@@ -14,7 +14,7 @@
     font-style: normal;
 }
 
-.header a:hover,
-.header a:focus {
+.header nav:hover,
+.header address:focus {
     color: #404BBF;
 }
