@@ -3,6 +3,9 @@
     letter-spacing: 0.02em;
 }
 
+.header a {
+    color: #434455;
+}
 .header nav {
     font-weight: 500;
 }
