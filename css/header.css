@@ -3,10 +3,8 @@
     letter-spacing: 0.02em;
 }
 
-.header a {
+.header nav a {
     color: #2e2f42;
-}
-.header nav {
     font-weight: 500;
 }
 
@@ -14,7 +12,7 @@
     font-style: normal;
 }
 
-.header nav:hover,
-.header address:focus {
+.header nav a:hover,
+.header address a:focus {
     color: #404BBF;
 }
