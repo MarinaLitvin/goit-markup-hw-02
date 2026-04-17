@@ -15,8 +15,9 @@ ul {
 .logo {
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 20px;
-    letter-spacing: 0.02em;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    line-height: 1.33;
 }
 
 h1 {
@@ -53,7 +54,8 @@ p {
 .accent {
     color: #4D5AE5;
     font-weight: 700;
-    font-size: 20px;    
+    font-size: 18px;
+    letter-spacing: 0.03em;
 }
 
 h1,
